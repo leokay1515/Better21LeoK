@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\bin\Debug\Better21LeoK.exe.config
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\bin\Debug\Better21LeoK.exe
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\bin\Debug\Better21LeoK.pdb
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.frmBetter21LeoK.resources
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.Properties.Resources.resources
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.exe
+C:\Users\user\Desktop\TechClass\Better21LeoK\Better21LeoK\obj\Debug\Better21LeoK.pdb
